@@ -1,0 +1,21 @@
+Id,Nom,Prénom,Sexe,Date_creation,Moyen_de_connaissance,territoire_id,statut_actuel_id
+64ae66f6-df30-4087-962b-66bd1282567c,Luke,Lucky,homme,01/10/2021,bouche à oreille,acba3433-1c2d-4b78-9499-2bf6dde83bc7,b224bcd6-55cd-43b2-a487-122ecffc04ed
+a651faa0-d7db-4164-9558-5bb350ed9d95,Potter,Harry,homme,02/02/2022,bouche à oreille,acba3433-1c2d-4b78-9499-2bf6dde83bc7,7034a7bd-1962-40ab-924e-404efff95785
+3eedd1bf-b5a3-46b1-a5fb-ee30776b811a,Granger,Hermione,femme,03/11/2021,courrier,acba3433-1c2d-4b78-9499-2bf6dde83bc7,96cccdf7-3437-4b92-aabf-a4f9e2dd0530
+02832540-5031-48d8-9a10-9f950c11d4e9,Wisley,Ron,homme,06/05/2022,flyer,acba3433-1c2d-4b78-9499-2bf6dde83bc7,fd8a78c7-2027-485b-9f6b-43ed8869bf84
+cfe2b2d5-eb9d-4b7a-82f3-2cf611431c48,Sacquet,Bilbon,homme,17/10/2022,bouche à oreille,acba3433-1c2d-4b78-9499-2bf6dde83bc7,
+34cf7a49-f0ab-4500-8700-baa3f8737d61,Despentes,Virginie,femme,30/9/2021,courrier,6d6fc6d8-f387-446e-b262-d88dc3eafde7,c57ed778-5661-446d-b70f-07a0a159d24e
+e9d3924d-0811-4e68-8a97-ebd7ec8017f6,Halliday,Johnny,homme,15/12/2021,orientation partenaire,6d6fc6d8-f387-446e-b262-d88dc3eafde7,0c7f0289-029d-4119-9250-f4e5cf5b19f5
+5eded4b4-0371-4643-b8b0-c3362df6792a,Blanc,Gérard,homme,9/7/2021,bouche à oreille,6d6fc6d8-f387-446e-b262-d88dc3eafde7,510b3c99-6c9c-49d5-9a56-9a21e7cd3bce
+2aeb04b2-2a04-460d-a98e-b65f19c3f5c2,Jugnot,Gérard,homme,27/3/2022,bouche à oreille,6d6fc6d8-f387-446e-b262-d88dc3eafde7,33916a27-56b6-442a-a4d3-322680496b2a
+e41c91dd-988d-4c1b-94a8-aa5a353145fa,Paradis,Vanessa,femme,22/1/2022,flyer,6d6fc6d8-f387-446e-b262-d88dc3eafde7,31fa70d3-87d1-4706-9b24-0ac76aa67245
+4432bc83-84fe-48f5-ab4b-7417f4055466,Obispo,Pascal,homme,15/8/2022,flyer,f1bac704-61df-48d6-ad18-24fe4633ff9a,05632816-68bf-4123-849e-609c01fc55d5
+55a77ace-54ee-4177-b5db-4150ce44bdaa,Dubosc,Franck,homme,12/9/2022,orientation partenaire,f1bac704-61df-48d6-ad18-24fe4633ff9a,1c64ffd4-6247-4855-9d85-ef8aa003d3b7
+1fa08a5c-cd0e-49c8-b4db-7dae8f06e4d7,Cabrel,Francis,homme,24/3/2022,orientation partenaire,f1bac704-61df-48d6-ad18-24fe4633ff9a,68fd0811-b6ae-4548-8a98-d6313f8c0326
+7097929a-d9d2-4861-8a66-781661688a9b,Andrieux,Julie,femme,19/7/2022,orientation partenaire,f1bac704-61df-48d6-ad18-24fe4633ff9a,5a6b653c-6016-4228-a6dc-43fe6ea69585
+22d18224-f1d1-43ad-8804-67fb2f931031,Foucault,Jean-Pierre,homme,4/5/2022,orientation partenaire,f1bac704-61df-48d6-ad18-24fe4633ff9a,d23f4e30-a478-497d-8541-a672df04e57f
+c03e7864-2c12-476c-bbfd-1a2d4ca890f1,Valentin,Patrick,homme,2/3/2022,mail,d2a9055e-4d84-419e-8633-6ced572f1b5c,d0c58c04-107a-4931-a035-9852c07c2f83
+ef85192d-32df-4e73-bc2f-cd6b9e9a3be5,Hugo,Victor,homme,13/11/2021,courrier,d2a9055e-4d84-419e-8633-6ced572f1b5c,d78a1016-cc53-45c9-b519-3323ac749adb
+1e1a22de-888b-4b7a-91f1-3ae33860ef3b,Depp,Johnny,homme,1/12/2021,mail,d2a9055e-4d84-419e-8633-6ced572f1b5c,f4e7da65-2daf-43eb-acdf-9937697d47ae
+ef2ed117-fe2a-4f8e-83de-284b2e57133b,Dylan,Bob,homme,03/04/2022,orientation partenaire,d2a9055e-4d84-419e-8633-6ced572f1b5c,74da6861-ee86-4938-99ca-ce70d65d9c69
+75e39ba3-954f-46bb-985f-18c383e14b0f,Bowie,David,homme,11/10/2021,bouche à oreille,d2a9055e-4d84-419e-8633-6ced572f1b5c,089a58b8-c224-46a5-9cb6-cb1806853b92
